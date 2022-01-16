@@ -13,22 +13,22 @@
 
 ```bash
 # Default.
-$ npx degit Leeyounghyun/vue3-webpack-template DIRECTORY_NAME
+$ npx degit Leeyonghyun/vue3-webpack-template DIRECTORY_NAME
 
 # With ESLint, Add `#eslint`.
-$ npx degit Leeyounghyun/vue3-webpack-template#eslint DIRECTORY_NAME
+$ npx degit Leeyonghyun/vue3-webpack-template#eslint DIRECTORY_NAME
 
 # With ESLint + Vuex, Add `#vuex`.
-$ npx degit Leeyounghyun/vue3-webpack-template#vuex DIRECTORY_NAME
+$ npx degit Leeyonghyun/vue3-webpack-template#vuex DIRECTORY_NAME
 
 # With ESLint + Vuex + VueRouter, Add `#vue-router`.
-$ npx degit Leeyounghyun/vue3-webpack-template#vue-router DIRECTORY_NAME
+$ npx degit Leeyonghyun/vue3-webpack-template#vue-router DIRECTORY_NAME
 
 # With ESLint + Vuex + VueRouter + Jest + VTU, Add `#jest`.
-$ npx degit Leeyounghyun/vue3-webpack-template#jest DIRECTORY_NAME
+$ npx degit Leeyonghyun/vue3-webpack-template#jest DIRECTORY_NAME
 
 # With ESLint + Vuex + VueRouter + Jest + VTU + Cypress, Add `#cypress`.
-$ npx degit Leeyounghyun/vue3-webpack-template#cypress DIRECTORY_NAME
+$ npx degit Leeyoughyun/vue3-webpack-template#cypress DIRECTORY_NAME
 
 # Start!
 $ cd DIRECTORY_NAME
